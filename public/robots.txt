@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sejuk-service.vercel.app/sitemap.xml
